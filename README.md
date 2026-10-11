@@ -1,6 +1,6 @@
-# Guía Completa de Referencia y Arquitectura: Minecraft Alpha 1.2.6 (MCP)
+# Guía Completa de Referencia y Arquitectura: Minecraft Alpha 1.2.6 (MCP) - Antigravity
 
-> **Informe técnico exhaustivo y enciclopedia de desarrollo para modificación (Modding) del código fuente de Minecraft Alpha 1.2.6 deofuscado con Minecraft Coder Pack.**
+> **Informe técnico exhaustivo y enciclopedia de desarrollo para modificación (Modding) del código fuente de Minecraft Alpha 1.2.6 decompilado con Minecraft Coder Pack.**
 
 ![Minecraft Version](https://img.shields.io/badge/Minecraft-Alpha%201.2.6-blue.svg)
 ![Decompiler](https://img.shields.io/badge/MCP-Minecraft%20Coder%20Pack-brightgreen.svg)
