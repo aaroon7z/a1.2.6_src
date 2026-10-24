@@ -1,6 +1,6 @@
-# Guía Completa de Referencia y Arquitectura: Minecraft Alpha 1.2.6 (MCP) - Antigravity
+# Análisis completo del código Minecraft Alpha 1.2.6
 
-> **Informe técnico exhaustivo y enciclopedia de desarrollo para modificación (Modding) del código fuente de Minecraft Alpha 1.2.6 decompilado con Minecraft Coder Pack.**
+> **La herramienta MCP permite decompilar versiones viejas de Minecraft para crear mods. Dado que esta versión es muy vieja, la cantidad de código es bastante menor que en versiones posteriores, y, por ende, más fácil de entender. Aun así es bastante extensivo. El proceso de decompilación ha sido humano, desde Windows 7 con JDK 7. Toda la documentación la ha generado Antigravity de Google.**
 
 ![Minecraft Version](https://img.shields.io/badge/Minecraft-Alpha%201.2.6-blue.svg)
 ![Decompiler](https://img.shields.io/badge/MCP-Minecraft%20Coder%20Pack-brightgreen.svg)
